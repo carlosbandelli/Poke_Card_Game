@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Pokemon } from '../types/pokemon';
-import PokemonList from '../components/PokemonList';
+import PokemonList from '../components/PokemonList/PokemonList';
+
 
 interface HomeProps {
   username: string;
@@ -16,7 +17,7 @@ const Home: React.FC<HomeProps> = ({ username }) => {
   const loadInitialPokemons = async () => {
     setLoading(true);
     try {
-      const response = await axios.get('https://pokeapi.co/api/v2/pokemon?limit=5&offset=0');
+      const response = await axios.get(`https://pokeapi.co/api/v2/pokemon?limit=5&offset=0`);
       const results = response.data.results;
       const promises = results.map(async (result: any) => {
         const response = await axios.get(result.url);
