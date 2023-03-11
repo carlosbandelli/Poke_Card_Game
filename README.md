@@ -1,7 +1,7 @@
 # Poke_Card_Game 
 
 
-> Projeto com React para fins educacionais <a href=""> clique aqui. </a>
+> Projeto com React para fins educacionais <a href="https://poke-card-game-e179ponhp-carlosbandelli.vercel.app/"> clique aqui. </a>
 
 <a href="https://github.com/carlosbandelli">
 <img alt="Autor" src="https://img.shields.io/badge/autor-CarlosBandelli-004400?style=flat-square">
@@ -27,7 +27,7 @@
 
 ## 💡 Sobre o projeto:
 
-Este projeto faz parte de um desafio que consistia em desenvolver  uma aplicação que permitisse ao usuário digitasse seu nome em num campo de uma pagina e assim que ele aperta o botão ele seria direcionado para outra pagina com o nome no canto superior direito e nessa pagina aparece 5 cartas com um numero randomico em cada uma delas, junto com dois botões um para embaralhar e outro para adicionar mais uma carta até o maximo de 8 cartas, quando chegar a 8 cartas ele nao pode sacar mais. Sobre a parte técnica do desafio poderia ser de acordo com a escolha do desenvolvedor, poderia ser um site, um app eu escolhi o vite-React para o desafio por ser a stack que atualmente estou estudando e também por ser a stack usada para a vaga referente a esse desafio. Para poder ver a aplicação online <a href=""> clique aqui. </a>
+Este projeto faz parte de um desafio que consistia em desenvolver  uma aplicação que permitisse ao usuário digitasse seu nome em num campo de uma pagina e assim que ele aperta o botão ele seria direcionado para outra pagina com o nome no canto superior direito e nessa pagina aparece 5 cartas com um numero randomico em cada uma delas, junto com dois botões um para embaralhar e outro para adicionar mais uma carta até o maximo de 8 cartas, quando chegar a 8 cartas ele nao pode sacar mais. Sobre a parte técnica do desafio poderia ser de acordo com a escolha do desenvolvedor, poderia ser um site, um app eu escolhi o vite-React para o desafio por ser a stack que atualmente estou estudando e também por ser a stack usada para a vaga referente a esse desafio. Para poder ver a aplicação online <a href="https://poke-card-game-e179ponhp-carlosbandelli.vercel.app/"> clique aqui. </a>
 
 ##🔥 Quais são as funcionalidades?
 
