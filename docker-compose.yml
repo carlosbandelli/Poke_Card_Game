@@ -1,0 +1,6 @@
+version: "3"
+services:
+  my-app:
+    image: carlosbandelli/PokeCard:latest
+    ports:
+      - "3000:3000"
